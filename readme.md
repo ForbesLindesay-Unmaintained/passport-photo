@@ -86,6 +86,7 @@ If the user is not in the cache, simply callback with no arguments.
  * MySpace
 
 ## License
+
 (The MIT License)
 
 Copyright (c) FPF Lindesay
