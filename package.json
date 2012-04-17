@@ -1,0 +1,13 @@
+{
+  "name": "passport-photo",
+  "version": "0.0.1-beta1",
+  "description": "Provide for avatars/profile photos what passport provides for authentication",
+  "main": "./index",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Tuskan360/passport-photo.git"
+  },
+  "dependencies": {
+    "request":"2.9.x"
+  }
+}
