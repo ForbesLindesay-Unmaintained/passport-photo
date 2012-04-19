@@ -41,7 +41,7 @@ module.exports = function(user, callback){
     });
   }
   next(0);
-}
+};
 exports = module.exports;
 
 exports.useHTTPs = false;
