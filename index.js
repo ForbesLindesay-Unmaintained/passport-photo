@@ -20,13 +20,13 @@ module.exports = function(user, callback){
     cacheSet(user, url, function(){
       callback(null, url);
     });
-  };
+  }
   function fail(){
     defaultStrategy(user, function(url){
       if(url) callback(null, url);
       else callback("could not get avatar for user");
     });
-  };
+  }
   function next(i){
     if(i === strategies.length) return fail();
     strategies[i](user, function(url){
