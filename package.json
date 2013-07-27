@@ -8,6 +8,8 @@
     "url": "https://github.com/Tuskan360/passport-photo.git"
   },
   "dependencies": {
-    "request":"2.9.x"
-  }
+    "request": "2.9.x"
+  },
+  "author": "ForbesLindesay",
+  "license": "MIT"
 }
