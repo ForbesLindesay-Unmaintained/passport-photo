@@ -1,5 +1,7 @@
 # Passport Photo
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ForbesLindesay/passport-photo.svg)](https://greenkeeper.io/)
+
 ## Install
 
     npm install passport-photo
